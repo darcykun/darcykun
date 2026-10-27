@@ -1,0 +1,17 @@
+Asset provenance and licensing
+
+Original SVG source (ocean-banner.svg, typing.svg, typing-static.svg) and the
+mascot assembly script are original project source, licensed under ../LICENSE (MIT).
+
+mascot-sheet.png was generated for this project using OpenAI imagegen from an
+original descriptive prompt, without supplied anime images as input. mascot.gif
+and mascot-static.png are derivatives assembled from that original sprite sheet.
+See ../docs/artwork.md for the prompt and process.
+
+The raster mascot assets are excluded from the source-code MIT grant. Their
+publication as part of this profile is authorized by darcykun. No separate
+standalone redistribution license is granted here. Any rights that apply are
+reserved; no claim of exclusive copyright over AI-generated output is made.
+
+No supplied anime avatar or manga banner is included. No source-code license
+is applied to third-party artwork. No third-party artwork is redistributed.
