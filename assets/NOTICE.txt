@@ -1,17 +1,25 @@
 Asset provenance and licensing
 
-Original SVG source (ocean-banner.svg, typing.svg, typing-static.svg) and the
-mascot assembly script are original project source, licensed under ../LICENSE (MIT).
+Original source under ../LICENSE (MIT):
+- dar-kun-title.svg and dar-kun-title-light.svg: hand-constructed geometric paths
+  made for Dar KUN!, not a font conversion. No font files, traced glyphs, external
+  fonts, or font-derived outlines are used.
+- ocean-banner.svg, typing.svg and typing-static.svg: original SVG source.
+- scripts/build_mascot.py: original mascot assembly code.
 
-mascot-sheet.png was generated for this project using OpenAI imagegen from an
-original descriptive prompt, without supplied anime images as input. mascot.gif
-and mascot-static.png are derivatives assembled from that original sprite sheet.
-See ../docs/artwork.md for the prompt and process.
+Original generated raster assets, excluded from the MIT source-code grant:
+- mascot-sheet.png: generated for this project using OpenAI imagegen from an
+  original descriptive prompt. mascot.gif and mascot-static.png are derivatives.
+- manga-eyes-original.webp: an original monochrome eyes illustration made with
+  OpenAI imagegen for this redesign. No supplied manga pixels or uploaded reference
+  were used; proportionally resized and encoded locally for efficient delivery.
 
-The raster mascot assets are excluded from the source-code MIT grant. Their
-publication as part of this profile is authorized by darcykun. No separate
-standalone redistribution license is granted here. Any rights that apply are
-reserved; no claim of exclusive copyright over AI-generated output is made.
+See ../docs/artwork.md for prompts and processing. No standalone raster-asset
+redistribution license is granted here. Any rights that apply are reserved; no
+claim of exclusive copyright over AI-generated output is made. The redesign is a
+local review candidate until the owner explicitly approves publication.
 
-No supplied anime avatar or manga banner is included. No source-code license
-is applied to third-party artwork. No third-party artwork is redistributed.
+The supplied 1037164989160119459.jpeg and Light Yagami death note.jpeg are excluded.
+Their redistribution rights and source attribution are not documented. The original
+source-code MIT license does not apply to third-party artwork. No third-party artwork
+is included in this repository.
